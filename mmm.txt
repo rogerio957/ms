@@ -1,0 +1,6 @@
+
+#EXTM3U
+#EXTINF:-1
+https://r1---sn-apn7en7e.googlevideo.com/videoplayback?expire=1626919094&ei=NmD4YIDnMsOKmLAPt92d8A8&ip=2001:818:eb10:1800:a94c:e251:9bfd:bf7d&id=7799d36e15596dea&itag=22&source=youtube&requiressl=yes&mh=Kz&mm=31&mn=sn-apn7en7e&ms=au&mv=m&mvi=1&pl=44&susc=gvp&acao=yes&ctier=L&mime=video/mp4&vprv=1&dur=32.925&lmt=1626600229598141&mt=1626890236&txp=5432434&sparams=expire,ei,ip,id,itag,source,requiressl,susc,acao,ctier,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgAXMHFB_QuKJXMvlXwkEo6oA2cJHDLUEwW4Z6PWwiUYwCIQDMI88WdGbnPYT0a5fXtbFWk-Ph7H6zj_Z4pm3bP6EQIA==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgcBFtcSWHQDWPYC3AUyvaKoZhTiXR7_shGFb2MK6jG9UCIFj-7JjQ9SXht77cSzzPfHrhl5jyN0JoPAkGR2vQtx_N&cpn=S8MHKktSmBqgr0Y8
+#EXTINF:-22
+https://hd-auth.skylinewebcams.com/live.m3u8?a=07uir7n3k6ut9bsihuqb5tnp30#EXTM3U
